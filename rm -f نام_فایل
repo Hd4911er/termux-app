@@ -1,0 +1,1 @@
+find . -type f \( ! -name "bot.py" ! -name ".env" ! -name ".gitignore" ! -name "README.md" \)
